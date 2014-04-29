@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileRetreat", "MobileRetreat\MobileRetreat.csproj", "{2785C58B-F03D-444D-A8F9-09BFD8051795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Release|iPhone.Build.0 = Release|iPhone
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2785C58B-F03D-444D-A8F9-09BFD8051795}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MobileRetreat\MobileRetreat.csproj
+	EndGlobalSection
+EndGlobal
